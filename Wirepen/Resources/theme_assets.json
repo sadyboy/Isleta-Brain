@@ -1,0 +1,116 @@
+{
+  "themes": [
+    {
+      "id": "sports_analytics",
+      "assets": {
+        "header_image": "sports_header",
+        "background": "sports_bg",
+        "icons": {
+          "statistics": "chart.bar",
+          "team": "person.3",
+          "field": "sportscourt",
+          "analysis": "magnifyingglass",
+          "trends": "arrow.up.right"
+        },
+        "illustrations": [
+          "sports_analysis_1",
+          "sports_analysis_2",
+          "sports_analysis_3"
+        ]
+      }
+    },
+    {
+      "id": "probability_theory",
+      "assets": {
+        "header_image": "probability_header",
+        "background": "probability_bg",
+        "icons": {
+          "dice": "dice",
+          "calculator": "function",
+          "graph": "waveform.path",
+          "formula": "x.squareroot",
+          "distribution": "bell.curve"
+        },
+        "illustrations": [
+          "probability_1",
+          "probability_2",
+          "probability_3"
+        ]
+      }
+    },
+    {
+      "id": "poker_strategy",
+      "assets": {
+        "header_image": "poker_header",
+        "background": "poker_bg",
+        "icons": {
+          "cards": "suit.club",
+          "chips": "circle.grid.3x3",
+          "table": "tablecells",
+          "strategy": "brain",
+          "odds": "percent"
+        },
+        "illustrations": [
+          "poker_strategy_1",
+          "poker_strategy_2",
+          "poker_strategy_3"
+        ]
+      }
+    },
+    {
+      "id": "general_sports",
+      "assets": {
+        "header_image": "general_sports_header",
+        "background": "general_sports_bg",
+        "icons": {
+          "olympics": "flame",
+          "ball": "soccerball",
+          "trophy": "trophy",
+          "player": "person.fill",
+          "whistle": "dot.radiowaves.left.and.right"
+        },
+        "illustrations": [
+          "general_sports_1",
+          "general_sports_2",
+          "general_sports_3"
+        ]
+      }
+    },
+    {
+      "id": "math_logic",
+      "assets": {
+        "header_image": "math_logic_header",
+        "background": "math_logic_bg",
+        "icons": {
+          "puzzle": "puzzlepiece",
+          "numbers": "123.rectangle",
+          "brain": "brain.head.profile",
+          "geometry": "triangle",
+          "equation": "equal.circle"
+        },
+        "illustrations": [
+          "math_logic_1",
+          "math_logic_2",
+          "math_logic_3"
+        ]
+      }
+    }
+  ],
+  "common_assets": {
+    "backgrounds": {
+      "gradient_1": ["#4A90E2", "#50E3C2"],
+      "gradient_2": ["#FF9500", "#FF2D55"],
+      "gradient_3": ["#5856D6", "#FF2D55"],
+      "gradient_4": ["#34C759", "#4A90E2"],
+      "gradient_5": ["#AF52DE", "#FF2D55"]
+    },
+    "animations": {
+      "success": "checkmark.circle.fill",
+      "failure": "xmark.circle.fill",
+      "loading": "circle.dotted",
+      "complete": "star.fill",
+      "attention": "exclamationmark.triangle.fill",
+      "sparkle": "sparkles"
+    }
+  }
+}

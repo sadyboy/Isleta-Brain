@@ -1,0 +1,1289 @@
+{
+  "categories": [
+    {
+      "id": "sports_analytics",
+      "title": "Sports Analytics",
+      "description": "Questions about analyzing sports and performance metrics",
+      "icon": "chart.bar",
+      "color": "#4A90E2",
+      "quizzes": [
+        {
+          "id": "sports_analytics_quiz",
+          "title": "Sports Analytics Quiz",
+          "description": "20 questions about Sports Analytics",
+          "difficulty": "medium",
+          "questions": [
+            {
+              "id": "q1",
+              "text": "Sample question 1 in Sports Analytics?",
+              "options": [
+                "Option A1",
+                "Option B1",
+                "Option C1",
+                "Option D1"
+              ],
+              "correctAnswer": 1,
+              "explanation": "Explanation for Sports Analytics question 1."
+            },
+            {
+              "id": "q2",
+              "text": "Sample question 2 in Sports Analytics?",
+              "options": [
+                "Option A2",
+                "Option B2",
+                "Option C2",
+                "Option D2"
+              ],
+              "correctAnswer": 2,
+              "explanation": "Explanation for Sports Analytics question 2."
+            },
+            {
+              "id": "q3",
+              "text": "Sample question 3 in Sports Analytics?",
+              "options": [
+                "Option A3",
+                "Option B3",
+                "Option C3",
+                "Option D3"
+              ],
+              "correctAnswer": 3,
+              "explanation": "Explanation for Sports Analytics question 3."
+            },
+            {
+              "id": "q4",
+              "text": "Sample question 4 in Sports Analytics?",
+              "options": [
+                "Option A4",
+                "Option B4",
+                "Option C4",
+                "Option D4"
+              ],
+              "correctAnswer": 0,
+              "explanation": "Explanation for Sports Analytics question 4."
+            },
+            {
+              "id": "q5",
+              "text": "Sample question 5 in Sports Analytics?",
+              "options": [
+                "Option A5",
+                "Option B5",
+                "Option C5",
+                "Option D5"
+              ],
+              "correctAnswer": 1,
+              "explanation": "Explanation for Sports Analytics question 5."
+            },
+            {
+              "id": "q6",
+              "text": "Sample question 6 in Sports Analytics?",
+              "options": [
+                "Option A6",
+                "Option B6",
+                "Option C6",
+                "Option D6"
+              ],
+              "correctAnswer": 2,
+              "explanation": "Explanation for Sports Analytics question 6."
+            },
+            {
+              "id": "q7",
+              "text": "Sample question 7 in Sports Analytics?",
+              "options": [
+                "Option A7",
+                "Option B7",
+                "Option C7",
+                "Option D7"
+              ],
+              "correctAnswer": 3,
+              "explanation": "Explanation for Sports Analytics question 7."
+            },
+            {
+              "id": "q8",
+              "text": "Sample question 8 in Sports Analytics?",
+              "options": [
+                "Option A8",
+                "Option B8",
+                "Option C8",
+                "Option D8"
+              ],
+              "correctAnswer": 0,
+              "explanation": "Explanation for Sports Analytics question 8."
+            },
+            {
+              "id": "q9",
+              "text": "Sample question 9 in Sports Analytics?",
+              "options": [
+                "Option A9",
+                "Option B9",
+                "Option C9",
+                "Option D9"
+              ],
+              "correctAnswer": 1,
+              "explanation": "Explanation for Sports Analytics question 9."
+            },
+            {
+              "id": "q10",
+              "text": "Sample question 10 in Sports Analytics?",
+              "options": [
+                "Option A10",
+                "Option B10",
+                "Option C10",
+                "Option D10"
+              ],
+              "correctAnswer": 2,
+              "explanation": "Explanation for Sports Analytics question 10."
+            },
+            {
+              "id": "q11",
+              "text": "Sample question 11 in Sports Analytics?",
+              "options": [
+                "Option A11",
+                "Option B11",
+                "Option C11",
+                "Option D11"
+              ],
+              "correctAnswer": 3,
+              "explanation": "Explanation for Sports Analytics question 11."
+            },
+            {
+              "id": "q12",
+              "text": "Sample question 12 in Sports Analytics?",
+              "options": [
+                "Option A12",
+                "Option B12",
+                "Option C12",
+                "Option D12"
+              ],
+              "correctAnswer": 0,
+              "explanation": "Explanation for Sports Analytics question 12."
+            },
+            {
+              "id": "q13",
+              "text": "Sample question 13 in Sports Analytics?",
+              "options": [
+                "Option A13",
+                "Option B13",
+                "Option C13",
+                "Option D13"
+              ],
+              "correctAnswer": 1,
+              "explanation": "Explanation for Sports Analytics question 13."
+            },
+            {
+              "id": "q14",
+              "text": "Sample question 14 in Sports Analytics?",
+              "options": [
+                "Option A14",
+                "Option B14",
+                "Option C14",
+                "Option D14"
+              ],
+              "correctAnswer": 2,
+              "explanation": "Explanation for Sports Analytics question 14."
+            },
+            {
+              "id": "q15",
+              "text": "Sample question 15 in Sports Analytics?",
+              "options": [
+                "Option A15",
+                "Option B15",
+                "Option C15",
+                "Option D15"
+              ],
+              "correctAnswer": 3,
+              "explanation": "Explanation for Sports Analytics question 15."
+            },
+            {
+              "id": "q16",
+              "text": "Sample question 16 in Sports Analytics?",
+              "options": [
+                "Option A16",
+                "Option B16",
+                "Option C16",
+                "Option D16"
+              ],
+              "correctAnswer": 0,
+              "explanation": "Explanation for Sports Analytics question 16."
+            },
+            {
+              "id": "q17",
+              "text": "Sample question 17 in Sports Analytics?",
+              "options": [
+                "Option A17",
+                "Option B17",
+                "Option C17",
+                "Option D17"
+              ],
+              "correctAnswer": 1,
+              "explanation": "Explanation for Sports Analytics question 17."
+            },
+            {
+              "id": "q18",
+              "text": "Sample question 18 in Sports Analytics?",
+              "options": [
+                "Option A18",
+                "Option B18",
+                "Option C18",
+                "Option D18"
+              ],
+              "correctAnswer": 2,
+              "explanation": "Explanation for Sports Analytics question 18."
+            },
+            {
+              "id": "q19",
+              "text": "Sample question 19 in Sports Analytics?",
+              "options": [
+                "Option A19",
+                "Option B19",
+                "Option C19",
+                "Option D19"
+              ],
+              "correctAnswer": 3,
+              "explanation": "Explanation for Sports Analytics question 19."
+            },
+            {
+              "id": "q20",
+              "text": "Sample question 20 in Sports Analytics?",
+              "options": [
+                "Option A20",
+                "Option B20",
+                "Option C20",
+                "Option D20"
+              ],
+              "correctAnswer": 0,
+              "explanation": "Explanation for Sports Analytics question 20."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "probability_theory",
+      "title": "Probability Theory",
+      "description": "Questions on probability and statistics",
+      "icon": "percent",
+      "color": "#50E3C2",
+      "quizzes": [
+        {
+          "id": "probability_theory_quiz",
+          "title": "Probability Theory Quiz",
+          "description": "20 questions about Probability Theory",
+          "difficulty": "medium",
+          "questions": [
+            {
+              "id": "q1",
+              "text": "Sample question 1 in Probability Theory?",
+              "options": [
+                "Option A1",
+                "Option B1",
+                "Option C1",
+                "Option D1"
+              ],
+              "correctAnswer": 1,
+              "explanation": "Explanation for Probability Theory question 1."
+            },
+            {
+              "id": "q2",
+              "text": "Sample question 2 in Probability Theory?",
+              "options": [
+                "Option A2",
+                "Option B2",
+                "Option C2",
+                "Option D2"
+              ],
+              "correctAnswer": 2,
+              "explanation": "Explanation for Probability Theory question 2."
+            },
+            {
+              "id": "q3",
+              "text": "Sample question 3 in Probability Theory?",
+              "options": [
+                "Option A3",
+                "Option B3",
+                "Option C3",
+                "Option D3"
+              ],
+              "correctAnswer": 3,
+              "explanation": "Explanation for Probability Theory question 3."
+            },
+            {
+              "id": "q4",
+              "text": "Sample question 4 in Probability Theory?",
+              "options": [
+                "Option A4",
+                "Option B4",
+                "Option C4",
+                "Option D4"
+              ],
+              "correctAnswer": 0,
+              "explanation": "Explanation for Probability Theory question 4."
+            },
+            {
+              "id": "q5",
+              "text": "Sample question 5 in Probability Theory?",
+              "options": [
+                "Option A5",
+                "Option B5",
+                "Option C5",
+                "Option D5"
+              ],
+              "correctAnswer": 1,
+              "explanation": "Explanation for Probability Theory question 5."
+            },
+            {
+              "id": "q6",
+              "text": "Sample question 6 in Probability Theory?",
+              "options": [
+                "Option A6",
+                "Option B6",
+                "Option C6",
+                "Option D6"
+              ],
+              "correctAnswer": 2,
+              "explanation": "Explanation for Probability Theory question 6."
+            },
+            {
+              "id": "q7",
+              "text": "Sample question 7 in Probability Theory?",
+              "options": [
+                "Option A7",
+                "Option B7",
+                "Option C7",
+                "Option D7"
+              ],
+              "correctAnswer": 3,
+              "explanation": "Explanation for Probability Theory question 7."
+            },
+            {
+              "id": "q8",
+              "text": "Sample question 8 in Probability Theory?",
+              "options": [
+                "Option A8",
+                "Option B8",
+                "Option C8",
+                "Option D8"
+              ],
+              "correctAnswer": 0,
+              "explanation": "Explanation for Probability Theory question 8."
+            },
+            {
+              "id": "q9",
+              "text": "Sample question 9 in Probability Theory?",
+              "options": [
+                "Option A9",
+                "Option B9",
+                "Option C9",
+                "Option D9"
+              ],
+              "correctAnswer": 1,
+              "explanation": "Explanation for Probability Theory question 9."
+            },
+            {
+              "id": "q10",
+              "text": "Sample question 10 in Probability Theory?",
+              "options": [
+                "Option A10",
+                "Option B10",
+                "Option C10",
+                "Option D10"
+              ],
+              "correctAnswer": 2,
+              "explanation": "Explanation for Probability Theory question 10."
+            },
+            {
+              "id": "q11",
+              "text": "Sample question 11 in Probability Theory?",
+              "options": [
+                "Option A11",
+                "Option B11",
+                "Option C11",
+                "Option D11"
+              ],
+              "correctAnswer": 3,
+              "explanation": "Explanation for Probability Theory question 11."
+            },
+            {
+              "id": "q12",
+              "text": "Sample question 12 in Probability Theory?",
+              "options": [
+                "Option A12",
+                "Option B12",
+                "Option C12",
+                "Option D12"
+              ],
+              "correctAnswer": 0,
+              "explanation": "Explanation for Probability Theory question 12."
+            },
+            {
+              "id": "q13",
+              "text": "Sample question 13 in Probability Theory?",
+              "options": [
+                "Option A13",
+                "Option B13",
+                "Option C13",
+                "Option D13"
+              ],
+              "correctAnswer": 1,
+              "explanation": "Explanation for Probability Theory question 13."
+            },
+            {
+              "id": "q14",
+              "text": "Sample question 14 in Probability Theory?",
+              "options": [
+                "Option A14",
+                "Option B14",
+                "Option C14",
+                "Option D14"
+              ],
+              "correctAnswer": 2,
+              "explanation": "Explanation for Probability Theory question 14."
+            },
+            {
+              "id": "q15",
+              "text": "Sample question 15 in Probability Theory?",
+              "options": [
+                "Option A15",
+                "Option B15",
+                "Option C15",
+                "Option D15"
+              ],
+              "correctAnswer": 3,
+              "explanation": "Explanation for Probability Theory question 15."
+            },
+            {
+              "id": "q16",
+              "text": "Sample question 16 in Probability Theory?",
+              "options": [
+                "Option A16",
+                "Option B16",
+                "Option C16",
+                "Option D16"
+              ],
+              "correctAnswer": 0,
+              "explanation": "Explanation for Probability Theory question 16."
+            },
+            {
+              "id": "q17",
+              "text": "Sample question 17 in Probability Theory?",
+              "options": [
+                "Option A17",
+                "Option B17",
+                "Option C17",
+                "Option D17"
+              ],
+              "correctAnswer": 1,
+              "explanation": "Explanation for Probability Theory question 17."
+            },
+            {
+              "id": "q18",
+              "text": "Sample question 18 in Probability Theory?",
+              "options": [
+                "Option A18",
+                "Option B18",
+                "Option C18",
+                "Option D18"
+              ],
+              "correctAnswer": 2,
+              "explanation": "Explanation for Probability Theory question 18."
+            },
+            {
+              "id": "q19",
+              "text": "Sample question 19 in Probability Theory?",
+              "options": [
+                "Option A19",
+                "Option B19",
+                "Option C19",
+                "Option D19"
+              ],
+              "correctAnswer": 3,
+              "explanation": "Explanation for Probability Theory question 19."
+            },
+            {
+              "id": "q20",
+              "text": "Sample question 20 in Probability Theory?",
+              "options": [
+                "Option A20",
+                "Option B20",
+                "Option C20",
+                "Option D20"
+              ],
+              "correctAnswer": 0,
+              "explanation": "Explanation for Probability Theory question 20."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "poker_strategy",
+      "title": "Poker Strategy",
+      "description": "Poker tactics, math and psychology",
+      "icon": "suit.spade",
+      "color": "#FF9500",
+      "quizzes": [
+        {
+          "id": "poker_strategy_quiz",
+          "title": "Poker Strategy Quiz",
+          "description": "20 questions about Poker Strategy",
+          "difficulty": "medium",
+          "questions": [
+            {
+              "id": "q1",
+              "text": "Sample question 1 in Poker Strategy?",
+              "options": [
+                "Option A1",
+                "Option B1",
+                "Option C1",
+                "Option D1"
+              ],
+              "correctAnswer": 1,
+              "explanation": "Explanation for Poker Strategy question 1."
+            },
+            {
+              "id": "q2",
+              "text": "Sample question 2 in Poker Strategy?",
+              "options": [
+                "Option A2",
+                "Option B2",
+                "Option C2",
+                "Option D2"
+              ],
+              "correctAnswer": 2,
+              "explanation": "Explanation for Poker Strategy question 2."
+            },
+            {
+              "id": "q3",
+              "text": "Sample question 3 in Poker Strategy?",
+              "options": [
+                "Option A3",
+                "Option B3",
+                "Option C3",
+                "Option D3"
+              ],
+              "correctAnswer": 3,
+              "explanation": "Explanation for Poker Strategy question 3."
+            },
+            {
+              "id": "q4",
+              "text": "Sample question 4 in Poker Strategy?",
+              "options": [
+                "Option A4",
+                "Option B4",
+                "Option C4",
+                "Option D4"
+              ],
+              "correctAnswer": 0,
+              "explanation": "Explanation for Poker Strategy question 4."
+            },
+            {
+              "id": "q5",
+              "text": "Sample question 5 in Poker Strategy?",
+              "options": [
+                "Option A5",
+                "Option B5",
+                "Option C5",
+                "Option D5"
+              ],
+              "correctAnswer": 1,
+              "explanation": "Explanation for Poker Strategy question 5."
+            },
+            {
+              "id": "q6",
+              "text": "Sample question 6 in Poker Strategy?",
+              "options": [
+                "Option A6",
+                "Option B6",
+                "Option C6",
+                "Option D6"
+              ],
+              "correctAnswer": 2,
+              "explanation": "Explanation for Poker Strategy question 6."
+            },
+            {
+              "id": "q7",
+              "text": "Sample question 7 in Poker Strategy?",
+              "options": [
+                "Option A7",
+                "Option B7",
+                "Option C7",
+                "Option D7"
+              ],
+              "correctAnswer": 3,
+              "explanation": "Explanation for Poker Strategy question 7."
+            },
+            {
+              "id": "q8",
+              "text": "Sample question 8 in Poker Strategy?",
+              "options": [
+                "Option A8",
+                "Option B8",
+                "Option C8",
+                "Option D8"
+              ],
+              "correctAnswer": 0,
+              "explanation": "Explanation for Poker Strategy question 8."
+            },
+            {
+              "id": "q9",
+              "text": "Sample question 9 in Poker Strategy?",
+              "options": [
+                "Option A9",
+                "Option B9",
+                "Option C9",
+                "Option D9"
+              ],
+              "correctAnswer": 1,
+              "explanation": "Explanation for Poker Strategy question 9."
+            },
+            {
+              "id": "q10",
+              "text": "Sample question 10 in Poker Strategy?",
+              "options": [
+                "Option A10",
+                "Option B10",
+                "Option C10",
+                "Option D10"
+              ],
+              "correctAnswer": 2,
+              "explanation": "Explanation for Poker Strategy question 10."
+            },
+            {
+              "id": "q11",
+              "text": "Sample question 11 in Poker Strategy?",
+              "options": [
+                "Option A11",
+                "Option B11",
+                "Option C11",
+                "Option D11"
+              ],
+              "correctAnswer": 3,
+              "explanation": "Explanation for Poker Strategy question 11."
+            },
+            {
+              "id": "q12",
+              "text": "Sample question 12 in Poker Strategy?",
+              "options": [
+                "Option A12",
+                "Option B12",
+                "Option C12",
+                "Option D12"
+              ],
+              "correctAnswer": 0,
+              "explanation": "Explanation for Poker Strategy question 12."
+            },
+            {
+              "id": "q13",
+              "text": "Sample question 13 in Poker Strategy?",
+              "options": [
+                "Option A13",
+                "Option B13",
+                "Option C13",
+                "Option D13"
+              ],
+              "correctAnswer": 1,
+              "explanation": "Explanation for Poker Strategy question 13."
+            },
+            {
+              "id": "q14",
+              "text": "Sample question 14 in Poker Strategy?",
+              "options": [
+                "Option A14",
+                "Option B14",
+                "Option C14",
+                "Option D14"
+              ],
+              "correctAnswer": 2,
+              "explanation": "Explanation for Poker Strategy question 14."
+            },
+            {
+              "id": "q15",
+              "text": "Sample question 15 in Poker Strategy?",
+              "options": [
+                "Option A15",
+                "Option B15",
+                "Option C15",
+                "Option D15"
+              ],
+              "correctAnswer": 3,
+              "explanation": "Explanation for Poker Strategy question 15."
+            },
+            {
+              "id": "q16",
+              "text": "Sample question 16 in Poker Strategy?",
+              "options": [
+                "Option A16",
+                "Option B16",
+                "Option C16",
+                "Option D16"
+              ],
+              "correctAnswer": 0,
+              "explanation": "Explanation for Poker Strategy question 16."
+            },
+            {
+              "id": "q17",
+              "text": "Sample question 17 in Poker Strategy?",
+              "options": [
+                "Option A17",
+                "Option B17",
+                "Option C17",
+                "Option D17"
+              ],
+              "correctAnswer": 1,
+              "explanation": "Explanation for Poker Strategy question 17."
+            },
+            {
+              "id": "q18",
+              "text": "Sample question 18 in Poker Strategy?",
+              "options": [
+                "Option A18",
+                "Option B18",
+                "Option C18",
+                "Option D18"
+              ],
+              "correctAnswer": 2,
+              "explanation": "Explanation for Poker Strategy question 18."
+            },
+            {
+              "id": "q19",
+              "text": "Sample question 19 in Poker Strategy?",
+              "options": [
+                "Option A19",
+                "Option B19",
+                "Option C19",
+                "Option D19"
+              ],
+              "correctAnswer": 3,
+              "explanation": "Explanation for Poker Strategy question 19."
+            },
+            {
+              "id": "q20",
+              "text": "Sample question 20 in Poker Strategy?",
+              "options": [
+                "Option A20",
+                "Option B20",
+                "Option C20",
+                "Option D20"
+              ],
+              "correctAnswer": 0,
+              "explanation": "Explanation for Poker Strategy question 20."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "general_sports",
+      "title": "General Sports Knowledge",
+      "description": "Olympics, rules, and sports trivia",
+      "icon": "sportscourt",
+      "color": "#34C759",
+      "quizzes": [
+        {
+          "id": "general_sports_quiz",
+          "title": "General Sports Knowledge Quiz",
+          "description": "20 questions about General Sports Knowledge",
+          "difficulty": "medium",
+          "questions": [
+            {
+              "id": "q1",
+              "text": "Sample question 1 in General Sports Knowledge?",
+              "options": [
+                "Option A1",
+                "Option B1",
+                "Option C1",
+                "Option D1"
+              ],
+              "correctAnswer": 1,
+              "explanation": "Explanation for General Sports Knowledge question 1."
+            },
+            {
+              "id": "q2",
+              "text": "Sample question 2 in General Sports Knowledge?",
+              "options": [
+                "Option A2",
+                "Option B2",
+                "Option C2",
+                "Option D2"
+              ],
+              "correctAnswer": 2,
+              "explanation": "Explanation for General Sports Knowledge question 2."
+            },
+            {
+              "id": "q3",
+              "text": "Sample question 3 in General Sports Knowledge?",
+              "options": [
+                "Option A3",
+                "Option B3",
+                "Option C3",
+                "Option D3"
+              ],
+              "correctAnswer": 3,
+              "explanation": "Explanation for General Sports Knowledge question 3."
+            },
+            {
+              "id": "q4",
+              "text": "Sample question 4 in General Sports Knowledge?",
+              "options": [
+                "Option A4",
+                "Option B4",
+                "Option C4",
+                "Option D4"
+              ],
+              "correctAnswer": 0,
+              "explanation": "Explanation for General Sports Knowledge question 4."
+            },
+            {
+              "id": "q5",
+              "text": "Sample question 5 in General Sports Knowledge?",
+              "options": [
+                "Option A5",
+                "Option B5",
+                "Option C5",
+                "Option D5"
+              ],
+              "correctAnswer": 1,
+              "explanation": "Explanation for General Sports Knowledge question 5."
+            },
+            {
+              "id": "q6",
+              "text": "Sample question 6 in General Sports Knowledge?",
+              "options": [
+                "Option A6",
+                "Option B6",
+                "Option C6",
+                "Option D6"
+              ],
+              "correctAnswer": 2,
+              "explanation": "Explanation for General Sports Knowledge question 6."
+            },
+            {
+              "id": "q7",
+              "text": "Sample question 7 in General Sports Knowledge?",
+              "options": [
+                "Option A7",
+                "Option B7",
+                "Option C7",
+                "Option D7"
+              ],
+              "correctAnswer": 3,
+              "explanation": "Explanation for General Sports Knowledge question 7."
+            },
+            {
+              "id": "q8",
+              "text": "Sample question 8 in General Sports Knowledge?",
+              "options": [
+                "Option A8",
+                "Option B8",
+                "Option C8",
+                "Option D8"
+              ],
+              "correctAnswer": 0,
+              "explanation": "Explanation for General Sports Knowledge question 8."
+            },
+            {
+              "id": "q9",
+              "text": "Sample question 9 in General Sports Knowledge?",
+              "options": [
+                "Option A9",
+                "Option B9",
+                "Option C9",
+                "Option D9"
+              ],
+              "correctAnswer": 1,
+              "explanation": "Explanation for General Sports Knowledge question 9."
+            },
+            {
+              "id": "q10",
+              "text": "Sample question 10 in General Sports Knowledge?",
+              "options": [
+                "Option A10",
+                "Option B10",
+                "Option C10",
+                "Option D10"
+              ],
+              "correctAnswer": 2,
+              "explanation": "Explanation for General Sports Knowledge question 10."
+            },
+            {
+              "id": "q11",
+              "text": "Sample question 11 in General Sports Knowledge?",
+              "options": [
+                "Option A11",
+                "Option B11",
+                "Option C11",
+                "Option D11"
+              ],
+              "correctAnswer": 3,
+              "explanation": "Explanation for General Sports Knowledge question 11."
+            },
+            {
+              "id": "q12",
+              "text": "Sample question 12 in General Sports Knowledge?",
+              "options": [
+                "Option A12",
+                "Option B12",
+                "Option C12",
+                "Option D12"
+              ],
+              "correctAnswer": 0,
+              "explanation": "Explanation for General Sports Knowledge question 12."
+            },
+            {
+              "id": "q13",
+              "text": "Sample question 13 in General Sports Knowledge?",
+              "options": [
+                "Option A13",
+                "Option B13",
+                "Option C13",
+                "Option D13"
+              ],
+              "correctAnswer": 1,
+              "explanation": "Explanation for General Sports Knowledge question 13."
+            },
+            {
+              "id": "q14",
+              "text": "Sample question 14 in General Sports Knowledge?",
+              "options": [
+                "Option A14",
+                "Option B14",
+                "Option C14",
+                "Option D14"
+              ],
+              "correctAnswer": 2,
+              "explanation": "Explanation for General Sports Knowledge question 14."
+            },
+            {
+              "id": "q15",
+              "text": "Sample question 15 in General Sports Knowledge?",
+              "options": [
+                "Option A15",
+                "Option B15",
+                "Option C15",
+                "Option D15"
+              ],
+              "correctAnswer": 3,
+              "explanation": "Explanation for General Sports Knowledge question 15."
+            },
+            {
+              "id": "q16",
+              "text": "Sample question 16 in General Sports Knowledge?",
+              "options": [
+                "Option A16",
+                "Option B16",
+                "Option C16",
+                "Option D16"
+              ],
+              "correctAnswer": 0,
+              "explanation": "Explanation for General Sports Knowledge question 16."
+            },
+            {
+              "id": "q17",
+              "text": "Sample question 17 in General Sports Knowledge?",
+              "options": [
+                "Option A17",
+                "Option B17",
+                "Option C17",
+                "Option D17"
+              ],
+              "correctAnswer": 1,
+              "explanation": "Explanation for General Sports Knowledge question 17."
+            },
+            {
+              "id": "q18",
+              "text": "Sample question 18 in General Sports Knowledge?",
+              "options": [
+                "Option A18",
+                "Option B18",
+                "Option C18",
+                "Option D18"
+              ],
+              "correctAnswer": 2,
+              "explanation": "Explanation for General Sports Knowledge question 18."
+            },
+            {
+              "id": "q19",
+              "text": "Sample question 19 in General Sports Knowledge?",
+              "options": [
+                "Option A19",
+                "Option B19",
+                "Option C19",
+                "Option D19"
+              ],
+              "correctAnswer": 3,
+              "explanation": "Explanation for General Sports Knowledge question 19."
+            },
+            {
+              "id": "q20",
+              "text": "Sample question 20 in General Sports Knowledge?",
+              "options": [
+                "Option A20",
+                "Option B20",
+                "Option C20",
+                "Option D20"
+              ],
+              "correctAnswer": 0,
+              "explanation": "Explanation for General Sports Knowledge question 20."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "math_logic",
+      "title": "Math & Logic Puzzles",
+      "description": "Challenging logic and math puzzles",
+      "icon": "brain.head.profile",
+      "color": "#AF52DE",
+      "quizzes": [
+        {
+          "id": "math_logic_quiz",
+          "title": "Math & Logic Puzzles Quiz",
+          "description": "20 questions about Math & Logic Puzzles",
+          "difficulty": "medium",
+          "questions": [
+            {
+              "id": "q1",
+              "text": "Sample question 1 in Math & Logic Puzzles?",
+              "options": [
+                "Option A1",
+                "Option B1",
+                "Option C1",
+                "Option D1"
+              ],
+              "correctAnswer": 1,
+              "explanation": "Explanation for Math & Logic Puzzles question 1."
+            },
+            {
+              "id": "q2",
+              "text": "Sample question 2 in Math & Logic Puzzles?",
+              "options": [
+                "Option A2",
+                "Option B2",
+                "Option C2",
+                "Option D2"
+              ],
+              "correctAnswer": 2,
+              "explanation": "Explanation for Math & Logic Puzzles question 2."
+            },
+            {
+              "id": "q3",
+              "text": "Sample question 3 in Math & Logic Puzzles?",
+              "options": [
+                "Option A3",
+                "Option B3",
+                "Option C3",
+                "Option D3"
+              ],
+              "correctAnswer": 3,
+              "explanation": "Explanation for Math & Logic Puzzles question 3."
+            },
+            {
+              "id": "q4",
+              "text": "Sample question 4 in Math & Logic Puzzles?",
+              "options": [
+                "Option A4",
+                "Option B4",
+                "Option C4",
+                "Option D4"
+              ],
+              "correctAnswer": 0,
+              "explanation": "Explanation for Math & Logic Puzzles question 4."
+            },
+            {
+              "id": "q5",
+              "text": "Sample question 5 in Math & Logic Puzzles?",
+              "options": [
+                "Option A5",
+                "Option B5",
+                "Option C5",
+                "Option D5"
+              ],
+              "correctAnswer": 1,
+              "explanation": "Explanation for Math & Logic Puzzles question 5."
+            },
+            {
+              "id": "q6",
+              "text": "Sample question 6 in Math & Logic Puzzles?",
+              "options": [
+                "Option A6",
+                "Option B6",
+                "Option C6",
+                "Option D6"
+              ],
+              "correctAnswer": 2,
+              "explanation": "Explanation for Math & Logic Puzzles question 6."
+            },
+            {
+              "id": "q7",
+              "text": "Sample question 7 in Math & Logic Puzzles?",
+              "options": [
+                "Option A7",
+                "Option B7",
+                "Option C7",
+                "Option D7"
+              ],
+              "correctAnswer": 3,
+              "explanation": "Explanation for Math & Logic Puzzles question 7."
+            },
+            {
+              "id": "q8",
+              "text": "Sample question 8 in Math & Logic Puzzles?",
+              "options": [
+                "Option A8",
+                "Option B8",
+                "Option C8",
+                "Option D8"
+              ],
+              "correctAnswer": 0,
+              "explanation": "Explanation for Math & Logic Puzzles question 8."
+            },
+            {
+              "id": "q9",
+              "text": "Sample question 9 in Math & Logic Puzzles?",
+              "options": [
+                "Option A9",
+                "Option B9",
+                "Option C9",
+                "Option D9"
+              ],
+              "correctAnswer": 1,
+              "explanation": "Explanation for Math & Logic Puzzles question 9."
+            },
+            {
+              "id": "q10",
+              "text": "Sample question 10 in Math & Logic Puzzles?",
+              "options": [
+                "Option A10",
+                "Option B10",
+                "Option C10",
+                "Option D10"
+              ],
+              "correctAnswer": 2,
+              "explanation": "Explanation for Math & Logic Puzzles question 10."
+            },
+            {
+              "id": "q11",
+              "text": "Sample question 11 in Math & Logic Puzzles?",
+              "options": [
+                "Option A11",
+                "Option B11",
+                "Option C11",
+                "Option D11"
+              ],
+              "correctAnswer": 3,
+              "explanation": "Explanation for Math & Logic Puzzles question 11."
+            },
+            {
+              "id": "q12",
+              "text": "Sample question 12 in Math & Logic Puzzles?",
+              "options": [
+                "Option A12",
+                "Option B12",
+                "Option C12",
+                "Option D12"
+              ],
+              "correctAnswer": 0,
+              "explanation": "Explanation for Math & Logic Puzzles question 12."
+            },
+            {
+              "id": "q13",
+              "text": "Sample question 13 in Math & Logic Puzzles?",
+              "options": [
+                "Option A13",
+                "Option B13",
+                "Option C13",
+                "Option D13"
+              ],
+              "correctAnswer": 1,
+              "explanation": "Explanation for Math & Logic Puzzles question 13."
+            },
+            {
+              "id": "q14",
+              "text": "Sample question 14 in Math & Logic Puzzles?",
+              "options": [
+                "Option A14",
+                "Option B14",
+                "Option C14",
+                "Option D14"
+              ],
+              "correctAnswer": 2,
+              "explanation": "Explanation for Math & Logic Puzzles question 14."
+            },
+            {
+              "id": "q15",
+              "text": "Sample question 15 in Math & Logic Puzzles?",
+              "options": [
+                "Option A15",
+                "Option B15",
+                "Option C15",
+                "Option D15"
+              ],
+              "correctAnswer": 3,
+              "explanation": "Explanation for Math & Logic Puzzles question 15."
+            },
+            {
+              "id": "q16",
+              "text": "Sample question 16 in Math & Logic Puzzles?",
+              "options": [
+                "Option A16",
+                "Option B16",
+                "Option C16",
+                "Option D16"
+              ],
+              "correctAnswer": 0,
+              "explanation": "Explanation for Math & Logic Puzzles question 16."
+            },
+            {
+              "id": "q17",
+              "text": "Sample question 17 in Math & Logic Puzzles?",
+              "options": [
+                "Option A17",
+                "Option B17",
+                "Option C17",
+                "Option D17"
+              ],
+              "correctAnswer": 1,
+              "explanation": "Explanation for Math & Logic Puzzles question 17."
+            },
+            {
+              "id": "q18",
+              "text": "Sample question 18 in Math & Logic Puzzles?",
+              "options": [
+                "Option A18",
+                "Option B18",
+                "Option C18",
+                "Option D18"
+              ],
+              "correctAnswer": 2,
+              "explanation": "Explanation for Math & Logic Puzzles question 18."
+            },
+            {
+              "id": "q19",
+              "text": "Sample question 19 in Math & Logic Puzzles?",
+              "options": [
+                "Option A19",
+                "Option B19",
+                "Option C19",
+                "Option D19"
+              ],
+              "correctAnswer": 3,
+              "explanation": "Explanation for Math & Logic Puzzles question 19."
+            },
+            {
+              "id": "q20",
+              "text": "Sample question 20 in Math & Logic Puzzles?",
+              "options": [
+                "Option A20",
+                "Option B20",
+                "Option C20",
+                "Option D20"
+              ],
+              "correctAnswer": 0,
+              "explanation": "Explanation for Math & Logic Puzzles question 20."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

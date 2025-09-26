@@ -1,0 +1,194 @@
+{
+  "lessons": [
+    {
+      "id": "l1",
+      "title": "Sports Analytics Basics",
+      "description": "Learn how to analyze sports events with modern metrics.",
+      "duration": 5,
+      "content": "Expected Goals (xG), PPDA, heatmaps...",
+      "isCompleted": false,
+      "examples": [
+        {
+          "id": "ex1",
+          "title": "xG Example",
+          "description": "Compare xG values of two teams."
+        }
+      ],
+      "practice": [
+        {
+          "id": "p1",
+          "question": "What does PPDA measure?",
+          "correctAnswer": "Pressing intensity",
+          "type": "openText"
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "text": "Which stat best measures attacking potential?",
+          "type": "multipleChoice",
+          "options": ["xG", "Possession", "Shots", "Corners"],
+          "correctAnswer": 0
+        },
+        {
+          "id": "q2",
+          "text": "Write in your own words what 'Expected Goals (xG)' means.",
+          "type": "openText",
+          "correctText": ["expected goals", "probability of scoring", "chance quality"]
+        }
+      ],
+      "rewards": {
+        "xp": 100,
+        "currency": 50,
+        "skills": ["Sports Analytics", "Data Interpretation"]
+      }
+    },
+    {
+      "id": "l2",
+      "title": "Probability in Poker",
+      "description": "Master probability theory applied to poker situations.",
+      "duration": 8,
+      "content": "Pot odds, implied odds, combinatorics...",
+      "isCompleted": false,
+      "examples": [
+        {
+          "id": "ex2",
+          "title": "Odds Example",
+          "description": "Calculate chance of hitting a flush draw."
+        }
+      ],
+      "practice": [
+        {
+          "id": "p2",
+          "question": "What are pot odds?",
+          "correctAnswer": "The ratio of the pot to the call.",
+          "type": "openText"
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "text": "You have 9 outs with one card to come. What is your chance?",
+          "type": "multipleChoice",
+          "options": ["18%", "36%", "50%", "75%"],
+          "correctAnswer": 0
+        }
+      ],
+      "rewards": {
+        "xp": 120,
+        "currency": 60,
+        "skills": ["Probability Theory", "Poker Math"]
+      }
+    },
+    {
+      "id": "l3",
+      "title": "Football Strategy",
+      "description": "Understand tactical approaches in football.",
+      "duration": 10,
+      "content": "Formations, pressing, counter-attacks...",
+      "isCompleted": false,
+      "examples": [
+        {
+          "id": "ex3",
+          "title": "Formation Example",
+          "description": "4-3-3 vs 4-4-2 advantages."
+        }
+      ],
+      "practice": [
+        {
+          "id": "p3",
+          "question": "What does a high press aim to do?",
+          "correctAnswer": "Win the ball high up.",
+          "type": "openText"
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "text": "Which formation is most defensive?",
+          "type": "multipleChoice",
+          "options": ["4-3-3", "4-4-2", "5-4-1", "3-5-2"],
+          "correctAnswer": 2
+        }
+      ],
+      "rewards": {
+        "xp": 150,
+        "currency": 80,
+        "skills": ["Tactical Thinking", "Football Knowledge"]
+      }
+    },
+    {
+      "id": "l4",
+      "title": "Psychology of Motivation",
+      "description": "Learn how motivation affects performance in sports and learning.",
+      "duration": 7,
+      "content": "Intrinsic vs extrinsic motivation, goal setting, self-determination theory.",
+      "isCompleted": false,
+      "examples": [
+        {
+          "id": "ex4",
+          "title": "Motivation Example",
+          "description": "How goals influence athlete performance."
+        }
+      ],
+      "practice": [
+        {
+          "id": "p4",
+          "question": "What is intrinsic motivation?",
+          "correctAnswer": "Doing something for its own sake.",
+          "type": "openText"
+        }
+      ],
+      "quiz": [
+        {
+          "id": "q1",
+          "text": "Which type of motivation comes from external rewards?",
+          "type": "multipleChoice",
+          "options": ["Intrinsic", "Extrinsic", "Self-determined", "Goal-oriented"],
+          "correctAnswer": 1
+        },
+        {
+          "id": "q2",
+          "text": "Give your own example of intrinsic motivation.",
+          "type": "openText",
+          "correctText": ["enjoyment", "interest", "personal growth"]
+        }
+      ],
+      "rewards": {
+        "xp": 110,
+        "currency": 70,
+        "skills": ["Motivation", "Psychology", "Self-Reflection"]
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "id": "e1",
+      "title": "Probability Calculation",
+      "type": "probability",
+      "points": 100,
+      "content": "Calculate probability of drawing two aces in a row."
+    },
+    {
+      "id": "e2",
+      "title": "Match Analysis",
+      "type": "analysis",
+      "points": 150,
+      "content": "Analyze a football match dataset and extract key insights."
+    },
+    {
+      "id": "e3",
+      "title": "Strategy Development",
+      "type": "strategy",
+      "points": 200,
+      "content": "Build an optimal strategy for a knockout tournament."
+    },
+    {
+      "id": "e4",
+      "title": "Motivation Reflection",
+      "type": "analysis",
+      "points": 120,
+      "content": "Reflect on your personal motivators and identify intrinsic vs extrinsic factors."
+    }
+  ]
+}
