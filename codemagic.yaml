@@ -2,7 +2,7 @@ workflows:
     ios-workflow:
       name: iOS Workflow
       environment:
-        xcode: 17.0
+        xcode: 16.0
         
         ios_signing:
             distribution_type: app_store
